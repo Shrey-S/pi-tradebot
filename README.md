@@ -1,2 +1,2 @@
 # pi-tradebot
-Cryptocurrency Trading Bot that runs 24/7 on a Raspberry Pi 3
+Cryptocurrency Trading Bot that runs on a Raspberry Pi
